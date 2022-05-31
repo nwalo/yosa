@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "name": "yosa",
+  "version": "1.0.0",
+  "description": "An organization for Youth in sustainable agriculture",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sustainable",
+    "Agriculture",
+    "Youth",
+    "Organization",
+    "Climate",
+    "Change",
+    "Engineering",
+    "for",
+    "Global",
+    "Develoment"
+  ],
+  "author": "Nwalo",
+  "license": "ISC"
+}
